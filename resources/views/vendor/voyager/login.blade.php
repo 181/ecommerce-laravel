@@ -88,8 +88,8 @@
 
 
               <div style="margin-top: 10px;">
-                <div><strong>Email: </strong>adminweb@adminweb.com</div>
-                <div><strong>Password: </strong>password</div>
+                <div><strong>Email: </strong>admin@admin.com</div>
+                <div><strong>Password: </strong>111111</div>
               </div>
 
               <div style="margin-top: 10px;"><strong>Note: </strong>A lot of the functionality for this demo has been disabled: For example, deleting data and browsing/editing users and roles. If you would like full access, install it locally with the instructions found on the GitHub Repo.</div>
