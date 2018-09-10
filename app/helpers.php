@@ -12,7 +12,8 @@ function setActiveCategory($category, $output = 'active')
 
 function productImage($path)
 {
-    return $path && file_exists('storage/'.$path) ? asset('storage/'.$path) : asset('img/not-found.jpg');
+    // products/dummy/laptop-1.jpg
+    return $path && file_exists($path) ? asset($path) : asset('img/not-found.jpg');
 }
 
 function getNumbers()
